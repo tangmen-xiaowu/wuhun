@@ -6,5 +6,9 @@ public class wudijinshen {
         System.out.println("三哥");
         System.out.println("三哥");
         System.out.println("三哥");
+        System.out.println("小舞");
+        System.out.println("小舞");
+        System.out.println("小舞");
+        System.out.println("小舞");
     }
 }
